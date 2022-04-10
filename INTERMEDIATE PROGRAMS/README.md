@@ -6,3 +6,7 @@
 - Get an integer input from a user. If the number is odd, then find the factorial of
 a number and find the number of digits in the factorial of the number. If the
 number is even, then check the number is palindrome or not
+
+**EXPERIMENT-2**
+- Given two strings, PRINT (YES or NO) whether the second string can be
+obtained from the first by deletion of none, one or more characters.
